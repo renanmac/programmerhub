@@ -48,7 +48,7 @@ gem 'ransack'
 gem 'will_paginate', '~> 3.1.0'
 
 gem 'acts_as_commentable'
-gem 'acts_as_follower', github: 'tcocca/act_as_follower', branch: 'master'
+gem 'acts_as_follower', github: 'tcocca/acts_as_follower', branch: 'master'
 
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
